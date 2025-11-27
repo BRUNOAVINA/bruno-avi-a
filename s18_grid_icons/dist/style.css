@@ -1,0 +1,33 @@
+body{
+  background-color:red;
+}
+h1,p {
+  text-align:center;
+    color:white
+}
+.container{
+  display:flex;
+  background-color:black;
+  width: 1040px;
+  margin: 10px auto;
+  content:center;
+}
+.container div{
+  background-color:black;
+  margin: 10px;
+    padding: 20px;
+  font-size: 24px;
+  
+  align-items:center;
+  
+}
+footer{
+  background-color: black;
+  
+}
+
+.social a{
+  color:white;
+  margin: 0 1rem;
+  font-size:1.2rem;
+}
